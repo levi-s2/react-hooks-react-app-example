@@ -1,5 +1,4 @@
 import React from "react";
-import { format } from "date-fns";
 import ExampleComponent from "./ExampleComponent";
 import TestComponent from "./TestComponent"
 
@@ -18,6 +17,6 @@ function App() {
       <TestComponent />
     </div>
   );
-}
+};
 
 export default App;
